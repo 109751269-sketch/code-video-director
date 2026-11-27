@@ -1,0 +1,7 @@
+interface:
+  display_name: "代码视频导演"
+  short_description: "按镜头语言把三个代码渲染引擎编排成一条片子"
+  default_prompt: "使用 $code-video-director 帮我完成……"
+
+policy:
+  allow_implicit_invocation: true
